@@ -1,2 +1,2 @@
-# lizsully_site
-Liz's site for Dig Lit
+# lizsully's_site
+Liz Sullivan's Site for Digital Literacy 2024
